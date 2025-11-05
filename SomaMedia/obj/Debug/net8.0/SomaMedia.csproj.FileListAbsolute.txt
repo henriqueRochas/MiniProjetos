@@ -1,0 +1,15 @@
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\SomaMedia\obj\Debug\net8.0\SomaMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\SomaMedia\obj\Debug\net8.0\SomaMedia.AssemblyInfoInputs.cache
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\SomaMedia\obj\Debug\net8.0\SomaMedia.AssemblyInfo.cs
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\SomaMedia\obj\Debug\net8.0\SomaMedia.csproj.CoreCompileInputs.cache
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\SomaMedia\obj\Debug\net8.0\SomaMedia.sourcelink.json
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\SomaMedia\bin\Debug\net8.0\SomaMedia.exe
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\SomaMedia\bin\Debug\net8.0\SomaMedia.deps.json
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\SomaMedia\bin\Debug\net8.0\SomaMedia.runtimeconfig.json
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\SomaMedia\bin\Debug\net8.0\SomaMedia.dll
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\SomaMedia\bin\Debug\net8.0\SomaMedia.pdb
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\SomaMedia\obj\Debug\net8.0\SomaMedia.dll
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\SomaMedia\obj\Debug\net8.0\refint\SomaMedia.dll
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\SomaMedia\obj\Debug\net8.0\SomaMedia.pdb
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\SomaMedia\obj\Debug\net8.0\SomaMedia.genruntimeconfig.cache
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\SomaMedia\obj\Debug\net8.0\ref\SomaMedia.dll
