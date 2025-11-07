@@ -1,0 +1,15 @@
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\JogandoDados\bin\Debug\net8.0\JogandoDados.exe
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\JogandoDados\bin\Debug\net8.0\JogandoDados.deps.json
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\JogandoDados\bin\Debug\net8.0\JogandoDados.runtimeconfig.json
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\JogandoDados\bin\Debug\net8.0\JogandoDados.dll
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\JogandoDados\bin\Debug\net8.0\JogandoDados.pdb
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\JogandoDados\obj\Debug\net8.0\JogandoDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\JogandoDados\obj\Debug\net8.0\JogandoDados.AssemblyInfoInputs.cache
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\JogandoDados\obj\Debug\net8.0\JogandoDados.AssemblyInfo.cs
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\JogandoDados\obj\Debug\net8.0\JogandoDados.csproj.CoreCompileInputs.cache
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\JogandoDados\obj\Debug\net8.0\JogandoDados.sourcelink.json
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\JogandoDados\obj\Debug\net8.0\JogandoDados.dll
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\JogandoDados\obj\Debug\net8.0\refint\JogandoDados.dll
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\JogandoDados\obj\Debug\net8.0\JogandoDados.pdb
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\JogandoDados\obj\Debug\net8.0\JogandoDados.genruntimeconfig.cache
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\JogandoDados\obj\Debug\net8.0\ref\JogandoDados.dll

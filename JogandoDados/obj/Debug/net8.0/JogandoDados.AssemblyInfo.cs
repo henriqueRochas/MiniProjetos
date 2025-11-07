@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("SomaMedia")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("JogandoDados")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5bb736c7e6dd734dbc35063fa3b32bb62ccd4bcc")]
-[assembly: System.Reflection.AssemblyProductAttribute("SomaMedia")]
-[assembly: System.Reflection.AssemblyTitleAttribute("SomaMedia")]
+[assembly: System.Reflection.AssemblyProductAttribute("JogandoDados")]
+[assembly: System.Reflection.AssemblyTitleAttribute("JogandoDados")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
