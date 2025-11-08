@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JogandoDados")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5bb736c7e6dd734dbc35063fa3b32bb62ccd4bcc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba81b4f6a8ab6e3f64d6bb205f8e382a2f2cc316")]
 [assembly: System.Reflection.AssemblyProductAttribute("JogandoDados")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JogandoDados")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
