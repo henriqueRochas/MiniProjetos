@@ -1,0 +1,15 @@
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AdvinhandoNumero\bin\Debug\net8.0\AdvinhandoNumero.exe
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AdvinhandoNumero\bin\Debug\net8.0\AdvinhandoNumero.deps.json
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AdvinhandoNumero\bin\Debug\net8.0\AdvinhandoNumero.runtimeconfig.json
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AdvinhandoNumero\bin\Debug\net8.0\AdvinhandoNumero.dll
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AdvinhandoNumero\bin\Debug\net8.0\AdvinhandoNumero.pdb
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AdvinhandoNumero\obj\Debug\net8.0\AdvinhandoNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AdvinhandoNumero\obj\Debug\net8.0\AdvinhandoNumero.AssemblyInfoInputs.cache
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AdvinhandoNumero\obj\Debug\net8.0\AdvinhandoNumero.AssemblyInfo.cs
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AdvinhandoNumero\obj\Debug\net8.0\AdvinhandoNumero.csproj.CoreCompileInputs.cache
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AdvinhandoNumero\obj\Debug\net8.0\AdvinhandoNumero.sourcelink.json
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AdvinhandoNumero\obj\Debug\net8.0\AdvinhandoNumero.dll
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AdvinhandoNumero\obj\Debug\net8.0\refint\AdvinhandoNumero.dll
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AdvinhandoNumero\obj\Debug\net8.0\AdvinhandoNumero.pdb
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AdvinhandoNumero\obj\Debug\net8.0\AdvinhandoNumero.genruntimeconfig.cache
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AdvinhandoNumero\obj\Debug\net8.0\ref\AdvinhandoNumero.dll
