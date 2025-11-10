@@ -1,0 +1,15 @@
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\MiniAgenda\bin\Debug\net8.0\MiniAgenda.exe
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\MiniAgenda\bin\Debug\net8.0\MiniAgenda.deps.json
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\MiniAgenda\bin\Debug\net8.0\MiniAgenda.runtimeconfig.json
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\MiniAgenda\bin\Debug\net8.0\MiniAgenda.dll
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\MiniAgenda\bin\Debug\net8.0\MiniAgenda.pdb
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\MiniAgenda\obj\Debug\net8.0\MiniAgenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\MiniAgenda\obj\Debug\net8.0\MiniAgenda.AssemblyInfoInputs.cache
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\MiniAgenda\obj\Debug\net8.0\MiniAgenda.AssemblyInfo.cs
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\MiniAgenda\obj\Debug\net8.0\MiniAgenda.csproj.CoreCompileInputs.cache
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\MiniAgenda\obj\Debug\net8.0\MiniAgenda.sourcelink.json
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\MiniAgenda\obj\Debug\net8.0\MiniAgenda.dll
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\MiniAgenda\obj\Debug\net8.0\refint\MiniAgenda.dll
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\MiniAgenda\obj\Debug\net8.0\MiniAgenda.pdb
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\MiniAgenda\obj\Debug\net8.0\MiniAgenda.genruntimeconfig.cache
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\MiniAgenda\obj\Debug\net8.0\ref\MiniAgenda.dll
