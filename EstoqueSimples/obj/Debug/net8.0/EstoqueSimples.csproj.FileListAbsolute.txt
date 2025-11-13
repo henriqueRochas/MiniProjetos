@@ -1,0 +1,15 @@
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\EstoqueSimples\bin\Debug\net8.0\EstoqueSimples.exe
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\EstoqueSimples\bin\Debug\net8.0\EstoqueSimples.deps.json
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\EstoqueSimples\bin\Debug\net8.0\EstoqueSimples.runtimeconfig.json
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\EstoqueSimples\bin\Debug\net8.0\EstoqueSimples.dll
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\EstoqueSimples\bin\Debug\net8.0\EstoqueSimples.pdb
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\EstoqueSimples\obj\Debug\net8.0\EstoqueSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\EstoqueSimples\obj\Debug\net8.0\EstoqueSimples.AssemblyInfoInputs.cache
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\EstoqueSimples\obj\Debug\net8.0\EstoqueSimples.AssemblyInfo.cs
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\EstoqueSimples\obj\Debug\net8.0\EstoqueSimples.csproj.CoreCompileInputs.cache
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\EstoqueSimples\obj\Debug\net8.0\EstoqueSimples.sourcelink.json
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\EstoqueSimples\obj\Debug\net8.0\EstoqueSimples.dll
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\EstoqueSimples\obj\Debug\net8.0\refint\EstoqueSimples.dll
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\EstoqueSimples\obj\Debug\net8.0\EstoqueSimples.pdb
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\EstoqueSimples\obj\Debug\net8.0\EstoqueSimples.genruntimeconfig.cache
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\EstoqueSimples\obj\Debug\net8.0\ref\EstoqueSimples.dll
