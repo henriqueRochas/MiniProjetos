@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("EstoqueSimples")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ToDoListPersistencia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad6ddbe04b46d6e89ec2d5df1d604f14031c2790")]
-[assembly: System.Reflection.AssemblyProductAttribute("EstoqueSimples")]
-[assembly: System.Reflection.AssemblyTitleAttribute("EstoqueSimples")]
+[assembly: System.Reflection.AssemblyProductAttribute("ToDoListPersistencia")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ToDoListPersistencia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

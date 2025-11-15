@@ -1,0 +1,15 @@
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\ToDoListPersistencia\bin\Debug\net8.0\ToDoListPersistencia.exe
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\ToDoListPersistencia\bin\Debug\net8.0\ToDoListPersistencia.deps.json
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\ToDoListPersistencia\bin\Debug\net8.0\ToDoListPersistencia.runtimeconfig.json
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\ToDoListPersistencia\bin\Debug\net8.0\ToDoListPersistencia.dll
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\ToDoListPersistencia\bin\Debug\net8.0\ToDoListPersistencia.pdb
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\ToDoListPersistencia\obj\Debug\net8.0\ToDoListPersistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\ToDoListPersistencia\obj\Debug\net8.0\ToDoListPersistencia.AssemblyInfoInputs.cache
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\ToDoListPersistencia\obj\Debug\net8.0\ToDoListPersistencia.AssemblyInfo.cs
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\ToDoListPersistencia\obj\Debug\net8.0\ToDoListPersistencia.csproj.CoreCompileInputs.cache
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\ToDoListPersistencia\obj\Debug\net8.0\ToDoListPersistencia.sourcelink.json
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\ToDoListPersistencia\obj\Debug\net8.0\ToDoListPersistencia.dll
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\ToDoListPersistencia\obj\Debug\net8.0\refint\ToDoListPersistencia.dll
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\ToDoListPersistencia\obj\Debug\net8.0\ToDoListPersistencia.pdb
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\ToDoListPersistencia\obj\Debug\net8.0\ToDoListPersistencia.genruntimeconfig.cache
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\ToDoListPersistencia\obj\Debug\net8.0\ref\ToDoListPersistencia.dll

@@ -24,6 +24,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoList", "..\ToDoList\ToD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstoqueSimples", "..\EstoqueSimples\EstoqueSimples.csproj", "{D4AE39A6-760E-4C0F-AF03-622D082C10B9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoListPersistencia", "..\ToDoListPersistencia\ToDoListPersistencia.csproj", "{3A9F75EA-9AC1-4A5E-BFAF-4534AC7A91C3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -62,6 +64,10 @@ Global
 		{D4AE39A6-760E-4C0F-AF03-622D082C10B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4AE39A6-760E-4C0F-AF03-622D082C10B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4AE39A6-760E-4C0F-AF03-622D082C10B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A9F75EA-9AC1-4A5E-BFAF-4534AC7A91C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A9F75EA-9AC1-4A5E-BFAF-4534AC7A91C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A9F75EA-9AC1-4A5E-BFAF-4534AC7A91C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A9F75EA-9AC1-4A5E-BFAF-4534AC7A91C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

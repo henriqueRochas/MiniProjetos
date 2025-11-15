@@ -1,0 +1,4 @@
+www,True
+Estudar,False
+Dormir,False
+Descansar,False
