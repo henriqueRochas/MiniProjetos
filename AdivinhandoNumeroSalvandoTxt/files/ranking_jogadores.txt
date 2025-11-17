@@ -1,0 +1,4 @@
+Henrique 3|0 | 0
+1|7 | 0
+Henrique | 5
+Euuuu | 4

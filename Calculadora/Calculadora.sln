@@ -26,6 +26,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstoqueSimples", "..\Estoqu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoListPersistencia", "..\ToDoListPersistencia\ToDoListPersistencia.csproj", "{3A9F75EA-9AC1-4A5E-BFAF-4534AC7A91C3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdivinhandoNumeroSalvandoTxt", "..\AdivinhandoNumeroSalvandoTxt\AdivinhandoNumeroSalvandoTxt.csproj", "{9B527822-87A8-4CA7-B829-91EDBB120841}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -68,6 +70,10 @@ Global
 		{3A9F75EA-9AC1-4A5E-BFAF-4534AC7A91C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A9F75EA-9AC1-4A5E-BFAF-4534AC7A91C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A9F75EA-9AC1-4A5E-BFAF-4534AC7A91C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B527822-87A8-4CA7-B829-91EDBB120841}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B527822-87A8-4CA7-B829-91EDBB120841}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B527822-87A8-4CA7-B829-91EDBB120841}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B527822-87A8-4CA7-B829-91EDBB120841}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

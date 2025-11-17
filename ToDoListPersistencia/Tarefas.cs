@@ -207,7 +207,7 @@ namespace ToDoListPersistencia
 
                 foreach (var lines in listaTarefas)
                 {
-                    string juntar = lines.Descricao + "," + (lines.Completa);
+                    string juntar = lines.Descricao + "," + lines.Completa;
                     salvarLinhas.Add(juntar);
                 }
                 File.WriteAllLines(caminhoArquivo, salvarLinhas);

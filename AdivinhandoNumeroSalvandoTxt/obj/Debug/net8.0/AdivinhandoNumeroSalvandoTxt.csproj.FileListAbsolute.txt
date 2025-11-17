@@ -1,0 +1,15 @@
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AdivinhandoNumeroSalvandoTxt\bin\Debug\net8.0\AdivinhandoNumeroSalvandoTxt.exe
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AdivinhandoNumeroSalvandoTxt\bin\Debug\net8.0\AdivinhandoNumeroSalvandoTxt.deps.json
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AdivinhandoNumeroSalvandoTxt\bin\Debug\net8.0\AdivinhandoNumeroSalvandoTxt.runtimeconfig.json
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AdivinhandoNumeroSalvandoTxt\bin\Debug\net8.0\AdivinhandoNumeroSalvandoTxt.dll
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AdivinhandoNumeroSalvandoTxt\bin\Debug\net8.0\AdivinhandoNumeroSalvandoTxt.pdb
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AdivinhandoNumeroSalvandoTxt\obj\Debug\net8.0\AdivinhandoNumeroSalvandoTxt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AdivinhandoNumeroSalvandoTxt\obj\Debug\net8.0\AdivinhandoNumeroSalvandoTxt.AssemblyInfoInputs.cache
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AdivinhandoNumeroSalvandoTxt\obj\Debug\net8.0\AdivinhandoNumeroSalvandoTxt.AssemblyInfo.cs
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AdivinhandoNumeroSalvandoTxt\obj\Debug\net8.0\AdivinhandoNumeroSalvandoTxt.csproj.CoreCompileInputs.cache
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AdivinhandoNumeroSalvandoTxt\obj\Debug\net8.0\AdivinhandoNumeroSalvandoTxt.sourcelink.json
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AdivinhandoNumeroSalvandoTxt\obj\Debug\net8.0\AdivinhandoNumeroSalvandoTxt.dll
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AdivinhandoNumeroSalvandoTxt\obj\Debug\net8.0\refint\AdivinhandoNumeroSalvandoTxt.dll
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AdivinhandoNumeroSalvandoTxt\obj\Debug\net8.0\AdivinhandoNumeroSalvandoTxt.pdb
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AdivinhandoNumeroSalvandoTxt\obj\Debug\net8.0\AdivinhandoNumeroSalvandoTxt.genruntimeconfig.cache
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AdivinhandoNumeroSalvandoTxt\obj\Debug\net8.0\ref\AdivinhandoNumeroSalvandoTxt.dll

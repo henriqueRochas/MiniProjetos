@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("SomaMedia")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("AdivinhandoNumeroSalvandoTxt")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c866b45e0c4c40a9bfb666a166cd6c2934c210c7")]
-[assembly: System.Reflection.AssemblyProductAttribute("SomaMedia")]
-[assembly: System.Reflection.AssemblyTitleAttribute("SomaMedia")]
+[assembly: System.Reflection.AssemblyProductAttribute("AdivinhandoNumeroSalvandoTxt")]
+[assembly: System.Reflection.AssemblyTitleAttribute("AdivinhandoNumeroSalvandoTxt")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
