@@ -1,0 +1,15 @@
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\Diario\bin\Debug\net8.0\Diario.exe
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\Diario\bin\Debug\net8.0\Diario.deps.json
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\Diario\bin\Debug\net8.0\Diario.runtimeconfig.json
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\Diario\bin\Debug\net8.0\Diario.dll
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\Diario\bin\Debug\net8.0\Diario.pdb
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\Diario\obj\Debug\net8.0\Diario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\Diario\obj\Debug\net8.0\Diario.AssemblyInfoInputs.cache
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\Diario\obj\Debug\net8.0\Diario.AssemblyInfo.cs
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\Diario\obj\Debug\net8.0\Diario.csproj.CoreCompileInputs.cache
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\Diario\obj\Debug\net8.0\Diario.sourcelink.json
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\Diario\obj\Debug\net8.0\Diario.dll
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\Diario\obj\Debug\net8.0\refint\Diario.dll
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\Diario\obj\Debug\net8.0\Diario.pdb
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\Diario\obj\Debug\net8.0\Diario.genruntimeconfig.cache
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\Diario\obj\Debug\net8.0\ref\Diario.dll

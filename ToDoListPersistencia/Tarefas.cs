@@ -170,7 +170,7 @@ namespace ToDoListPersistencia
 
         public void CarregarArquivos()
         {
-            string caminhoArquivo = @"C:\ToDoListPersistencia\Files\file1.txt";
+            string caminhoArquivo = @"ToDoListPersistencia\Files\file1.txt";
 
             try
             {
@@ -197,7 +197,7 @@ namespace ToDoListPersistencia
 
         public void SalvarArquivos()
         {
-            string caminhoArquivo = @"C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\ToDoListPersistencia\Files\file1.txt";
+            string caminhoArquivo = @"ToDoListPersistencia\Files\file1.txt";
 
             List<string> salvarLinhas = new List<string>();
 

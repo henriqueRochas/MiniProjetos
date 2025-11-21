@@ -10,7 +10,7 @@ namespace AdivinhandoNumeroSalvandoTxt
 {
     internal class GerenciadorPlacar
     {
-        private string caminhoArquivo = @"C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AdivinhandoNumeroSalvandoTxt\files\ranking_jogadores.txt";
+        private string caminhoArquivo = @"C:\AdivinhandoNumeroSalvandoTxt\files\ranking_jogadores.txt";
 
 
         public List<Pontuacao> CarregarPlacar()
