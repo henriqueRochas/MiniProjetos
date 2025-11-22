@@ -1,0 +1,15 @@
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\GerenciadorNotasAlunos\obj\Debug\net8.0\GerenciadorNotasAlunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\GerenciadorNotasAlunos\obj\Debug\net8.0\GerenciadorNotasAlunos.AssemblyInfoInputs.cache
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\GerenciadorNotasAlunos\obj\Debug\net8.0\GerenciadorNotasAlunos.AssemblyInfo.cs
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\GerenciadorNotasAlunos\obj\Debug\net8.0\GerenciadorNotasAlunos.csproj.CoreCompileInputs.cache
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\GerenciadorNotasAlunos\obj\Debug\net8.0\GerenciadorNotasAlunos.sourcelink.json
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\GerenciadorNotasAlunos\bin\Debug\net8.0\GerenciadorNotasAlunos.exe
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\GerenciadorNotasAlunos\bin\Debug\net8.0\GerenciadorNotasAlunos.deps.json
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\GerenciadorNotasAlunos\bin\Debug\net8.0\GerenciadorNotasAlunos.runtimeconfig.json
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\GerenciadorNotasAlunos\bin\Debug\net8.0\GerenciadorNotasAlunos.dll
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\GerenciadorNotasAlunos\bin\Debug\net8.0\GerenciadorNotasAlunos.pdb
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\GerenciadorNotasAlunos\obj\Debug\net8.0\GerenciadorNotasAlunos.dll
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\GerenciadorNotasAlunos\obj\Debug\net8.0\refint\GerenciadorNotasAlunos.dll
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\GerenciadorNotasAlunos\obj\Debug\net8.0\GerenciadorNotasAlunos.pdb
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\GerenciadorNotasAlunos\obj\Debug\net8.0\GerenciadorNotasAlunos.genruntimeconfig.cache
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\GerenciadorNotasAlunos\obj\Debug\net8.0\ref\GerenciadorNotasAlunos.dll
