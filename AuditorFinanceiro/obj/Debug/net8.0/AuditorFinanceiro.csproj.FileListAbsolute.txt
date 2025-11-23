@@ -1,0 +1,15 @@
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AuditorFinanceiro\bin\Debug\net8.0\AuditorFinanceiro.exe
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AuditorFinanceiro\bin\Debug\net8.0\AuditorFinanceiro.deps.json
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AuditorFinanceiro\bin\Debug\net8.0\AuditorFinanceiro.runtimeconfig.json
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AuditorFinanceiro\bin\Debug\net8.0\AuditorFinanceiro.dll
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AuditorFinanceiro\bin\Debug\net8.0\AuditorFinanceiro.pdb
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AuditorFinanceiro\obj\Debug\net8.0\AuditorFinanceiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AuditorFinanceiro\obj\Debug\net8.0\AuditorFinanceiro.AssemblyInfoInputs.cache
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AuditorFinanceiro\obj\Debug\net8.0\AuditorFinanceiro.AssemblyInfo.cs
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AuditorFinanceiro\obj\Debug\net8.0\AuditorFinanceiro.csproj.CoreCompileInputs.cache
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AuditorFinanceiro\obj\Debug\net8.0\AuditorFinanceiro.sourcelink.json
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AuditorFinanceiro\obj\Debug\net8.0\AuditorFinanceiro.dll
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AuditorFinanceiro\obj\Debug\net8.0\refint\AuditorFinanceiro.dll
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AuditorFinanceiro\obj\Debug\net8.0\AuditorFinanceiro.pdb
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AuditorFinanceiro\obj\Debug\net8.0\AuditorFinanceiro.genruntimeconfig.cache
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AuditorFinanceiro\obj\Debug\net8.0\ref\AuditorFinanceiro.dll
