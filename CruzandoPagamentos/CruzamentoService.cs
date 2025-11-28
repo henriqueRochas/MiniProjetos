@@ -62,24 +62,16 @@ namespace CruzandoPagamentos
         }
 
         public void DiferenciaEntreValores()
-        {
-            var idPagamentos = _pagamentos
-                .Select(a => a.ValorPago);
-
-            var idVendas = _vendas
-                .Select(v => v.Valor);
-
-            var diferenciaValores = idVendas.Except(idPagamentos);
-
+        { 
             foreach (var item in _vendas)
             {
                 var procurandoDiferencia = _pagamentos.FirstOrDefault(p => p.IdVendaOriginal == item.ID);
 
-                if(item.Valor != null)
+                if(procurandoDiferencia != null)
                 {
                     if (item.Valor != procurandoDiferencia.ValorPago)
                     {
-                        Console.WriteLine(item);
+                        Console.WriteLine($"Venda {item.ID}: Valor{item.Valor} Valor recebido{procurandoDiferencia.ValorPago}");
 
                     }
                 }
