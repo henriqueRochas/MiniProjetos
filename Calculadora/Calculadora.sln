@@ -34,6 +34,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GerenciadorNotasAlunos", ".
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuditorFinanceiro", "..\AuditorFinanceiro\AuditorFinanceiro.csproj", "{B9353842-CC05-4C2F-B511-70C66092F63E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CruzandoPagamentos", "..\CruzandoPagamentos\CruzandoPagamentos.csproj", "{A46319BF-86CE-4B42-8906-84F9FE67B74B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -92,6 +94,10 @@ Global
 		{B9353842-CC05-4C2F-B511-70C66092F63E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9353842-CC05-4C2F-B511-70C66092F63E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9353842-CC05-4C2F-B511-70C66092F63E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A46319BF-86CE-4B42-8906-84F9FE67B74B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A46319BF-86CE-4B42-8906-84F9FE67B74B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A46319BF-86CE-4B42-8906-84F9FE67B74B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A46319BF-86CE-4B42-8906-84F9FE67B74B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

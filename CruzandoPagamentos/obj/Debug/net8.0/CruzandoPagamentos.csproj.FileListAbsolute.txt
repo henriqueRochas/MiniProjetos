@@ -1,0 +1,15 @@
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\CruzandoPagamentos\bin\Debug\net8.0\CruzandoPagamentos.exe
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\CruzandoPagamentos\bin\Debug\net8.0\CruzandoPagamentos.deps.json
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\CruzandoPagamentos\bin\Debug\net8.0\CruzandoPagamentos.runtimeconfig.json
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\CruzandoPagamentos\bin\Debug\net8.0\CruzandoPagamentos.dll
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\CruzandoPagamentos\bin\Debug\net8.0\CruzandoPagamentos.pdb
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\CruzandoPagamentos\obj\Debug\net8.0\CruzandoPagamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\CruzandoPagamentos\obj\Debug\net8.0\CruzandoPagamentos.AssemblyInfoInputs.cache
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\CruzandoPagamentos\obj\Debug\net8.0\CruzandoPagamentos.AssemblyInfo.cs
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\CruzandoPagamentos\obj\Debug\net8.0\CruzandoPagamentos.csproj.CoreCompileInputs.cache
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\CruzandoPagamentos\obj\Debug\net8.0\CruzandoPagamentos.sourcelink.json
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\CruzandoPagamentos\obj\Debug\net8.0\CruzandoPagamentos.dll
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\CruzandoPagamentos\obj\Debug\net8.0\refint\CruzandoPagamentos.dll
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\CruzandoPagamentos\obj\Debug\net8.0\CruzandoPagamentos.pdb
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\CruzandoPagamentos\obj\Debug\net8.0\CruzandoPagamentos.genruntimeconfig.cache
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\CruzandoPagamentos\obj\Debug\net8.0\ref\CruzandoPagamentos.dll
