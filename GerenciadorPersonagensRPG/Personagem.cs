@@ -14,7 +14,11 @@ namespace GerenciadorPersonagensRPG
         public List<Atributos> Estatistica { get; set; }
         public List<Item> Inventario { get; set; }
 
-        public Personagem() { }
+        public Personagem() 
+        { 
+            Estatistica = new List<Atributos>();
+            Inventario = new List<Item>();
+        }
 
         public Personagem(string nome, int nivel, string classe, List<Atributos> estatistica, List<Item> inventario)
         {
