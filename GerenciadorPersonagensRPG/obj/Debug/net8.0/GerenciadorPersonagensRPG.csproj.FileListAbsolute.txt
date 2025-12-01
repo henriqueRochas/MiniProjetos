@@ -1,0 +1,15 @@
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\GerenciadorPersonagensRPG\obj\Debug\net8.0\GerenciadorPersonagensRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\GerenciadorPersonagensRPG\obj\Debug\net8.0\GerenciadorPersonagensRPG.AssemblyInfoInputs.cache
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\GerenciadorPersonagensRPG\obj\Debug\net8.0\GerenciadorPersonagensRPG.AssemblyInfo.cs
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\GerenciadorPersonagensRPG\obj\Debug\net8.0\GerenciadorPersonagensRPG.csproj.CoreCompileInputs.cache
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\GerenciadorPersonagensRPG\obj\Debug\net8.0\GerenciadorPersonagensRPG.sourcelink.json
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\GerenciadorPersonagensRPG\bin\Debug\net8.0\GerenciadorPersonagensRPG.exe
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\GerenciadorPersonagensRPG\bin\Debug\net8.0\GerenciadorPersonagensRPG.deps.json
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\GerenciadorPersonagensRPG\bin\Debug\net8.0\GerenciadorPersonagensRPG.runtimeconfig.json
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\GerenciadorPersonagensRPG\bin\Debug\net8.0\GerenciadorPersonagensRPG.dll
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\GerenciadorPersonagensRPG\bin\Debug\net8.0\GerenciadorPersonagensRPG.pdb
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\GerenciadorPersonagensRPG\obj\Debug\net8.0\GerenciadorPersonagensRPG.dll
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\GerenciadorPersonagensRPG\obj\Debug\net8.0\refint\GerenciadorPersonagensRPG.dll
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\GerenciadorPersonagensRPG\obj\Debug\net8.0\GerenciadorPersonagensRPG.pdb
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\GerenciadorPersonagensRPG\obj\Debug\net8.0\GerenciadorPersonagensRPG.genruntimeconfig.cache
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\GerenciadorPersonagensRPG\obj\Debug\net8.0\ref\GerenciadorPersonagensRPG.dll

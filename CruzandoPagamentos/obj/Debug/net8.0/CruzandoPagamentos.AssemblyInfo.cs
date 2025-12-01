@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CruzandoPagamentos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94d5cf45b083e75c3037ed7082f442b331f65f09")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ed491dce50e74f8962a758ce383c178ef0f5bb4")]
 [assembly: System.Reflection.AssemblyProductAttribute("CruzandoPagamentos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CruzandoPagamentos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

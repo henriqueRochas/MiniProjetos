@@ -36,6 +36,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuditorFinanceiro", "..\Aud
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CruzandoPagamentos", "..\CruzandoPagamentos\CruzandoPagamentos.csproj", "{A46319BF-86CE-4B42-8906-84F9FE67B74B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GerenciadorPersonagensRPG", "..\GerenciadorPersonagensRPG\GerenciadorPersonagensRPG.csproj", "{D4E52BFA-234B-400C-8288-ADBE769A3DAD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -98,6 +100,10 @@ Global
 		{A46319BF-86CE-4B42-8906-84F9FE67B74B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A46319BF-86CE-4B42-8906-84F9FE67B74B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A46319BF-86CE-4B42-8906-84F9FE67B74B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4E52BFA-234B-400C-8288-ADBE769A3DAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4E52BFA-234B-400C-8288-ADBE769A3DAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4E52BFA-234B-400C-8288-ADBE769A3DAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4E52BFA-234B-400C-8288-ADBE769A3DAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
