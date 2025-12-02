@@ -38,6 +38,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CruzandoPagamentos", "..\Cr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GerenciadorPersonagensRPG", "..\GerenciadorPersonagensRPG\GerenciadorPersonagensRPG.csproj", "{D4E52BFA-234B-400C-8288-ADBE769A3DAD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaMultiUsuarios", "..\SistemaMultiUsuarios\SistemaMultiUsuarios.csproj", "{D0725ED5-4D6F-4AEB-ADBF-AC86E8E067AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -104,6 +106,10 @@ Global
 		{D4E52BFA-234B-400C-8288-ADBE769A3DAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4E52BFA-234B-400C-8288-ADBE769A3DAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4E52BFA-234B-400C-8288-ADBE769A3DAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0725ED5-4D6F-4AEB-ADBF-AC86E8E067AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0725ED5-4D6F-4AEB-ADBF-AC86E8E067AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0725ED5-4D6F-4AEB-ADBF-AC86E8E067AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0725ED5-4D6F-4AEB-ADBF-AC86E8E067AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

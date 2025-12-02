@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GerenciadorPersonagensRPG")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0328c276cb0290d2de8bcaab6d6552d5cb8000e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+795004df3171fc8122778cd2d657621d712b9571")]
 [assembly: System.Reflection.AssemblyProductAttribute("GerenciadorPersonagensRPG")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GerenciadorPersonagensRPG")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
