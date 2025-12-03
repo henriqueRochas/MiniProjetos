@@ -18,11 +18,11 @@ namespace GerenciadorPersonagensRPG
         public void CriarPersonagem(Personagem personagem)
         {
             List<Personagem> carregarJson;
-            string caminho = @"C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\GerenciadorPersonagensRPG\personagens.json";
+            string caminho = @"GerenciadorPersonagensRPG\personagens.json";
 
             if (File.Exists(caminho))
             {
-                string lerJson = File.ReadAllText(@"C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\GerenciadorPersonagensRPG\personagens.json");
+                string lerJson = File.ReadAllText(@"GerenciadorPersonagensRPG\personagens.json");
                 carregarJson = JsonSerializer.Deserialize<List<Personagem>>(lerJson);
             }
             else
@@ -37,8 +37,8 @@ namespace GerenciadorPersonagensRPG
 
         public void AdicionarInventario(string nomePersonagem, Item novoItem)
         {
-            string caminhoArquivo = @"C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\GerenciadorPersonagensRPG\personagens.json";
-            string lerJson = File.ReadAllText(@"C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\GerenciadorPersonagensRPG\personagens.json");
+            string caminhoArquivo = @"GerenciadorPersonagensRPG\personagens.json";
+            string lerJson = File.ReadAllText(@"GerenciadorPersonagensRPG\personagens.json");
             var carregarJson = JsonSerializer.Deserialize<List<Personagem>>(lerJson);
 
             foreach (var item in carregarJson)
@@ -54,8 +54,8 @@ namespace GerenciadorPersonagensRPG
 
         public Personagem CarregarPersonagem(string nome)
         {
-            string caminhoArquivo = @"C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\GerenciadorPersonagensRPG\personagens.json";
-            string lerJson = File.ReadAllText(@"C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\GerenciadorPersonagensRPG\personagens.json");
+            string caminhoArquivo = @"GerenciadorPersonagensRPG\personagens.json";
+            string lerJson = File.ReadAllText(@"GerenciadorPersonagensRPG\personagens.json");
             var carregarJson = JsonSerializer.Deserialize<List<Personagem>>(lerJson);
 
             foreach (var item in carregarJson)

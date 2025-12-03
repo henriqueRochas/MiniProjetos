@@ -24,7 +24,7 @@ namespace CruzandoPagamentos
                 new PagamentoBanco{IdVendaOriginal = 4},new PagamentoBanco{IdVendaOriginal = 5},new PagamentoBanco{IdVendaOriginal = 6},
                 new PagamentoBanco{IdVendaOriginal = 7},new PagamentoBanco{IdVendaOriginal = 8},new PagamentoBanco{IdVendaOriginal = 15},
             };
-        }    
+        }
         public void VendasSemPagamento()
         {
             var idPagamentos = _pagamentos
@@ -39,10 +39,6 @@ namespace CruzandoPagamentos
             {
                 Console.WriteLine(item);
             }
-
-
-
-
         }
 
         public void PagamentosAvulsos()
@@ -62,12 +58,12 @@ namespace CruzandoPagamentos
         }
 
         public void DiferenciaEntreValores()
-        { 
+        {
             foreach (var item in _vendas)
             {
                 var procurandoDiferencia = _pagamentos.FirstOrDefault(p => p.IdVendaOriginal == item.ID);
 
-                if(procurandoDiferencia != null)
+                if (procurandoDiferencia != null)
                 {
                     if (item.Valor != procurandoDiferencia.ValorPago)
                     {
@@ -76,8 +72,6 @@ namespace CruzandoPagamentos
                     }
                 }
             }
-
         }
-
     }
 }
