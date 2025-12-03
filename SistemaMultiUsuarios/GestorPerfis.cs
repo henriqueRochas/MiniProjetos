@@ -12,7 +12,7 @@ namespace SistemaMultiUsuarios
     {
         private string Perfil(string usuario)
         {
-            string pastaUsuario = @"C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\SistemaMultiUsuarios\DadosUsuarios";
+            string pastaUsuario = @"SistemaMultiUsuarios\DadosUsuarios";
             string usuarioArquivo = usuario + ".json";
             string caminhoCompleto = Path.Combine(pastaUsuario, usuarioArquivo);
 
@@ -23,7 +23,7 @@ namespace SistemaMultiUsuarios
 
             return caminhoCompleto;
         }
-        public void Login(string usuario)
+        public PerfilUsuario Login(string usuario)
         {
             PerfilUsuario perfilUsuario = new PerfilUsuario();
 
@@ -40,6 +40,7 @@ namespace SistemaMultiUsuarios
             perfilUsuario.UltimoAcesso = DateTime.Now;
             string salvandoJson = JsonSerializer.Serialize(perfilUsuario);
             File.WriteAllText((Perfil(usuario)), salvandoJson);
+            return perfilUsuario;
         }
 
         public void Salvar(string usuario, string novoTema)
@@ -55,7 +56,7 @@ namespace SistemaMultiUsuarios
 
         public List<string> ListarTodosUsuarios()
         {
-           var lendoArquivos = Directory.GetFiles(@"C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\SistemaMultiUsuarios\DadosUsuarios");
+           var lendoArquivos = Directory.GetFiles(@"SistemaMultiUsuarios\DadosUsuarios");
            var novaLista = new List<string>();
            
             foreach (var item in lendoArquivos)

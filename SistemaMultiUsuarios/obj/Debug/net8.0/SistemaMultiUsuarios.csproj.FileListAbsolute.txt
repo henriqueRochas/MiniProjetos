@@ -1,0 +1,15 @@
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\SistemaMultiUsuarios\bin\Debug\net8.0\SistemaMultiUsuarios.exe
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\SistemaMultiUsuarios\bin\Debug\net8.0\SistemaMultiUsuarios.deps.json
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\SistemaMultiUsuarios\bin\Debug\net8.0\SistemaMultiUsuarios.runtimeconfig.json
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\SistemaMultiUsuarios\bin\Debug\net8.0\SistemaMultiUsuarios.dll
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\SistemaMultiUsuarios\bin\Debug\net8.0\SistemaMultiUsuarios.pdb
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\SistemaMultiUsuarios\obj\Debug\net8.0\SistemaMultiUsuarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\SistemaMultiUsuarios\obj\Debug\net8.0\SistemaMultiUsuarios.AssemblyInfoInputs.cache
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\SistemaMultiUsuarios\obj\Debug\net8.0\SistemaMultiUsuarios.AssemblyInfo.cs
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\SistemaMultiUsuarios\obj\Debug\net8.0\SistemaMultiUsuarios.csproj.CoreCompileInputs.cache
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\SistemaMultiUsuarios\obj\Debug\net8.0\SistemaMultiUsuarios.sourcelink.json
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\SistemaMultiUsuarios\obj\Debug\net8.0\SistemaMultiUsuarios.dll
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\SistemaMultiUsuarios\obj\Debug\net8.0\refint\SistemaMultiUsuarios.dll
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\SistemaMultiUsuarios\obj\Debug\net8.0\SistemaMultiUsuarios.pdb
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\SistemaMultiUsuarios\obj\Debug\net8.0\SistemaMultiUsuarios.genruntimeconfig.cache
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\SistemaMultiUsuarios\obj\Debug\net8.0\ref\SistemaMultiUsuarios.dll
