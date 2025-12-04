@@ -1,0 +1,15 @@
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\MiniSistemaVendasEstoque\obj\Debug\net8.0\MiniSistemaVendasEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\MiniSistemaVendasEstoque\obj\Debug\net8.0\MiniSistemaVendasEstoque.AssemblyInfoInputs.cache
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\MiniSistemaVendasEstoque\obj\Debug\net8.0\MiniSistemaVendasEstoque.AssemblyInfo.cs
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\MiniSistemaVendasEstoque\obj\Debug\net8.0\MiniSistemaVendasEstoque.csproj.CoreCompileInputs.cache
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\MiniSistemaVendasEstoque\obj\Debug\net8.0\MiniSistemaVendasEstoque.sourcelink.json
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\MiniSistemaVendasEstoque\bin\Debug\net8.0\MiniSistemaVendasEstoque.exe
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\MiniSistemaVendasEstoque\bin\Debug\net8.0\MiniSistemaVendasEstoque.deps.json
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\MiniSistemaVendasEstoque\bin\Debug\net8.0\MiniSistemaVendasEstoque.runtimeconfig.json
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\MiniSistemaVendasEstoque\bin\Debug\net8.0\MiniSistemaVendasEstoque.dll
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\MiniSistemaVendasEstoque\bin\Debug\net8.0\MiniSistemaVendasEstoque.pdb
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\MiniSistemaVendasEstoque\obj\Debug\net8.0\MiniSistemaVendasEstoque.dll
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\MiniSistemaVendasEstoque\obj\Debug\net8.0\refint\MiniSistemaVendasEstoque.dll
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\MiniSistemaVendasEstoque\obj\Debug\net8.0\MiniSistemaVendasEstoque.pdb
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\MiniSistemaVendasEstoque\obj\Debug\net8.0\MiniSistemaVendasEstoque.genruntimeconfig.cache
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\MiniSistemaVendasEstoque\obj\Debug\net8.0\ref\MiniSistemaVendasEstoque.dll

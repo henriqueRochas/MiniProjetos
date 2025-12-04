@@ -40,6 +40,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GerenciadorPersonagensRPG",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaMultiUsuarios", "..\SistemaMultiUsuarios\SistemaMultiUsuarios.csproj", "{D0725ED5-4D6F-4AEB-ADBF-AC86E8E067AE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniSistemaVendasEstoque", "..\MiniSistemaVendasEstoque\MiniSistemaVendasEstoque.csproj", "{C1A3309F-47B5-4BB2-865C-78E8B5E8BD59}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -110,6 +112,10 @@ Global
 		{D0725ED5-4D6F-4AEB-ADBF-AC86E8E067AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0725ED5-4D6F-4AEB-ADBF-AC86E8E067AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0725ED5-4D6F-4AEB-ADBF-AC86E8E067AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1A3309F-47B5-4BB2-865C-78E8B5E8BD59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1A3309F-47B5-4BB2-865C-78E8B5E8BD59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1A3309F-47B5-4BB2-865C-78E8B5E8BD59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1A3309F-47B5-4BB2-865C-78E8B5E8BD59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

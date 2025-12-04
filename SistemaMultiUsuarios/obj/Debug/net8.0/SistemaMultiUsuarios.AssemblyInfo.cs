@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SistemaMultiUsuarios")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+446044979be5152081bba7a59f5231bd9c85b653")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dfd43adf062e6fdfbece3ff80a9b57736c3faa7b")]
 [assembly: System.Reflection.AssemblyProductAttribute("SistemaMultiUsuarios")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SistemaMultiUsuarios")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
