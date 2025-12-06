@@ -13,9 +13,16 @@ namespace MiniSistemaVendasEstoque
         private List<Produto> _produtos;
         private List<Pedido> _pedidos;
 
-        public void CadastrarVendedor(string nome)
+        public Loja()
         {
             _vendedores = new List<Vendedor>();
+            _compradores = new List<Comprador>();
+            _produtos = new List<Produto>();
+            _pedidos = new List<Pedido>();
+        }
+        public void CadastrarVendedor(string nome)
+        {
+
             Vendedor vendedor = new Vendedor();
             vendedor.Nome = nome;
             _vendedores.Add(vendedor);
@@ -23,7 +30,7 @@ namespace MiniSistemaVendasEstoque
 
         public void CadastrarComprador(string nome, decimal saldo)
         {
-            _compradores = new List<Comprador>();
+
             Comprador comprador = new Comprador();
             comprador.Nome = nome; comprador.Saldo = saldo;
             _compradores.Add(comprador);
@@ -34,22 +41,22 @@ namespace MiniSistemaVendasEstoque
             return _vendedores;
         }
 
-        public List <Comprador> Compradores()
+        public List<Comprador> ListaCompradores()
         {
             return _compradores;
         }
 
-        public string CadastrarProduto(Guid idVendedor, string nomeProduto, decimal preco, int estoque)
+        public string CadastrarProduto(Guid idProduto, Guid idVendedor, string nomeProduto, decimal preco, int estoque)
         {
-            _produtos = new List<Produto>();
+
             Produto produto = new Produto();
-            if (_vendedores.Any( a => a.Id != idVendedor))
+            if (!_vendedores.Any(a => a.Id == idVendedor))
             {
-                Console.WriteLine("Erro vendedor não encontrado");
+                return("Erro vendedor não encontrado");
             }
             else
             {
-                produto.Nome = nomeProduto; produto.Preco = preco; produto.Estoque = estoque; produto.VendedorId = idVendedor;
+                produto.Id = idProduto; produto.Nome = nomeProduto;  produto.Preco = preco; produto.Estoque = estoque; produto.VendedorId = idVendedor;
                 _produtos.Add(produto);
             }
             return ("Produto cadastrado com sucesso");
@@ -57,11 +64,9 @@ namespace MiniSistemaVendasEstoque
 
         public List<Produto> ListaProdutosDisponiveis()
         {
-            _produtos = new List<Produto>();
-            Produto produto = new Produto();
-            if (produto.Estoque > 0)
+            foreach (var item in _produtos)
             {
-                foreach (var item in _produtos)
+                if (item.Estoque > 0)
                 {
                     Console.WriteLine($" Id vendedor{item.VendedorId}");
                     Console.WriteLine($" Nome produto:{item.Nome} ");
@@ -70,14 +75,50 @@ namespace MiniSistemaVendasEstoque
 
                 }
             }
-            return _produtos.ToList();
+            return _produtos;
         }
 
         public string Comprar(Guid compradorId, Guid produtoId)
         {
-            _compradores = new List<Comprador>();
-            Comprador comprador = new Comprador();
+            var verifComprador = _compradores.FirstOrDefault(r => r.Id == compradorId);
+            var verifProduto = _produtos.FirstOrDefault(r => r.Id == produtoId);
+            if (verifComprador == null)
+            {
+                return ("Comprador não encontrado");
+            }
+            if (verifProduto == null)
+            {
+                return ("Produto não encontrado");
+            }
 
+            var verifVendedor = _vendedores.FirstOrDefault(r => r.Id == verifProduto.VendedorId);
+
+            if (verifVendedor == null)
+            {
+                return ("Vendedor não encontrado");
+            }
+
+            if (verifProduto.Estoque <= 0)
+            {
+                return ("Produtos esgostado");
+            }
+
+            if (verifComprador.Saldo < verifProduto.Preco)
+            {
+                return ("Saldo Insuficiente");
+            }
+
+            verifComprador.Saldo -= verifProduto.Preco;
+            verifVendedor.Saldo += verifProduto.Preco;
+            verifProduto.Estoque -= 1;
+
+            Pedido pedido = new Pedido();
+            pedido.Id = verifProduto.Id;
+            pedido.CompradorId = verifComprador.Id;
+            pedido.Date = DateTime.Now;
+            _pedidos.Add(pedido);
+
+            return ("Sucesso");
         }
     }
 }
