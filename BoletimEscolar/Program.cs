@@ -4,7 +4,9 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            MenuPrincipal principal = new MenuPrincipal();
+
+            principal.Menu();
         }
     }
 }

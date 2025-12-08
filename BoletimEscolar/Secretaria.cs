@@ -15,15 +15,15 @@ namespace BoletimEscolar
 
         public Secretaria()
         {
-            new List<Aluno>();
-            new List<Curso>();
-            new List<Matricula>();
+           _alunos = new List<Aluno>();
+           _cursos = new List<Curso>();
+           _matricula = new List<Matricula>();
         }
 
         public void CadastrarAlunos(string nome)
         {
             Aluno aluno = new Aluno();
-
+            
             aluno.Nome = nome;
             _alunos.Add(aluno);
         }
@@ -51,13 +51,18 @@ namespace BoletimEscolar
             return _cursos;
         }
 
-        public MatricularAluno(Guid idAluno, Guid idCurso)
+        public string MatricularAluno(Guid idAluno, Guid idCurso)
         {
+            Matricula matricula = new Matricula();
             try
             {
-                if(_matricula.Any(a => a.Id == idAluno))
+                if (_matricula.Any(a => a.Id == idAluno) && (_matricula.Any(b => b.Id == idCurso)))
                 {
-                    // PAREI AQUI NA VERIFICAÇÃO DO ALUNO E DO CURSO NA MATRICULA;
+                    matricula.Id = idAluno;
+                    matricula.CursoId = idCurso;
+                    matricula.Frequencia = 100;
+                    matricula.NotaFinal = 0;
+                    _matricula.Add(matricula);
                 }
             }
             catch (Exception e)
@@ -65,28 +70,35 @@ namespace BoletimEscolar
                 Console.WriteLine("ERROOOO!!!!!");
                 Console.WriteLine(e.Message);
             }
+            return ("Aluno matriculado com sucesso.");
         }
-        public void LancarNota(Guid alunoId, Guid cursoId, double nota)
+        public string LancarNota(Guid alunoId, Guid cursoId, double nota)
         {
-            var procuraMatricula = _matricula.FirstOrDefault(a => a.Id == alunoId);
 
+            var verifMatriculaAluno = _matricula.FirstOrDefault(a => a.AlunoId == alunoId &&  a.CursoId == cursoId);
+            verifMatriculaAluno.NotaFinal = nota;
+            _matricula.Add(verifMatriculaAluno);
+            return ($"Nota lançada {verifMatriculaAluno.NotaFinal}");
         }
         public List<string> GerarBoletim(Guid alunoId)
         {
+            Curso curso = new Curso();
+            Matricula matricula = new Matricula();
             try
             {
-                var bucarMatricula = _matricula.FirstOrDefault(a => a.CursoId == alunoId);
+                var bucarMatricula = _matricula.Where(a => a.AlunoId == alunoId);
                 foreach(var listaMatricula in _matricula)
                 {
-                    Console.WriteLine($"{listaMatricula.Curso}: {listaMatricula.NotaFinal}");
+                    var buscarMateria = _matricula.Where(a => a.CursoId == curso.Id);
+                    Console.WriteLine($"Matéria: {buscarMateria} | Nota: {matricula.NotaFinal} | Frequência: {matricula.Frequencia}%");
                 }
-                return _matricula;
             }
             catch (Exception e)
             {
                 Console.WriteLine("ERROOOO!!");
                 Console.WriteLine(e.Message);
             }
+                return _matricula.;
 
         }
     }
