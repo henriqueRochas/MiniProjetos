@@ -120,8 +120,6 @@ namespace MiniSistemaVendasEstoque
                         }while(opcaoListaCadastradas != 0);
                         break;
                     case 3:
-                        Comprador comprador = new Comprador();
-                        Produto produto = new Produto();
                         Guid compradorId= Guid.Parse(Console.ReadLine());
                         Guid produtoId = Guid.Parse(Console.ReadLine());
                         loja.Comprar(compradorId, produtoId);
