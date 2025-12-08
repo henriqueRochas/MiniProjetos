@@ -77,31 +77,28 @@ namespace BoletimEscolar
 
             var verifMatriculaAluno = _matricula.FirstOrDefault(a => a.AlunoId == alunoId &&  a.CursoId == cursoId);
             verifMatriculaAluno.NotaFinal = nota;
+            _matricula.Add(verifMatriculaAluno);
             return ($"Nota lançada {verifMatriculaAluno.NotaFinal}");
         }
-
         public List<string> GerarBoletim(Guid alunoId)
         {
-            List<string> boletim = new List<string>();
+            Curso curso = new Curso();
+            Matricula matricula = new Matricula();
             try
             {
                 var bucarMatricula = _matricula.Where(a => a.AlunoId == alunoId);
-
-                foreach(var listaMatricula in bucarMatricula)
+                foreach(var listaMatricula in _matricula)
                 {
-                    var buscarMateria = _cursos.FirstOrDefault(a => a.Id == listaMatricula.CursoId);
-                    boletim.Add($"Matéria: {buscarMateria.NomeMateria} | Nota: {listaMatricula.NotaFinal} | Frequência: {listaMatricula.Frequencia}%");
+                    var buscarMateria = _matricula.Where(a => a.CursoId == curso.Id);
+                    Console.WriteLine($"Matéria: {buscarMateria} | Nota: {matricula.NotaFinal} | Frequência: {matricula.Frequencia}%");
                 }
-                    var somandoNotas = bucarMatricula.Average(a => a.NotaFinal);
-                boletim.Add($"Média Geral: {somandoNotas}");
-
             }
             catch (Exception e)
             {
                 Console.WriteLine("ERROOOO!!");
                 Console.WriteLine(e.Message);
             }
-                return boletim;
+                return _matricula.;
 
         }
     }
