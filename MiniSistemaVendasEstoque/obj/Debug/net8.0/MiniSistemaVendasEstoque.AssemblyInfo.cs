@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiniSistemaVendasEstoque")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72eace3beaff31dd1a0f9419482bf082f4e1e7a8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+997091ef7fb1a822049afa0e32e3a6be48092a24")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiniSistemaVendasEstoque")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiniSistemaVendasEstoque")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
