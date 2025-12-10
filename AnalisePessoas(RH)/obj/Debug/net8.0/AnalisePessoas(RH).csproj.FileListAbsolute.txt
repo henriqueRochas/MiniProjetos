@@ -1,0 +1,15 @@
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AnalisePessoas(RH)\bin\Debug\net8.0\AnalisePessoas(RH).exe
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AnalisePessoas(RH)\bin\Debug\net8.0\AnalisePessoas(RH).deps.json
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AnalisePessoas(RH)\bin\Debug\net8.0\AnalisePessoas(RH).runtimeconfig.json
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AnalisePessoas(RH)\bin\Debug\net8.0\AnalisePessoas(RH).dll
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AnalisePessoas(RH)\bin\Debug\net8.0\AnalisePessoas(RH).pdb
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AnalisePessoas(RH)\obj\Debug\net8.0\AnalisePessoas(RH).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AnalisePessoas(RH)\obj\Debug\net8.0\AnalisePessoas(RH).AssemblyInfoInputs.cache
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AnalisePessoas(RH)\obj\Debug\net8.0\AnalisePessoas(RH).AssemblyInfo.cs
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AnalisePessoas(RH)\obj\Debug\net8.0\AnalisePessoas(RH).csproj.CoreCompileInputs.cache
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AnalisePessoas(RH)\obj\Debug\net8.0\AnalisePessoas(RH).sourcelink.json
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AnalisePessoas(RH)\obj\Debug\net8.0\AnalisePessoas(RH).dll
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AnalisePessoas(RH)\obj\Debug\net8.0\refint\AnalisePessoas(RH).dll
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AnalisePessoas(RH)\obj\Debug\net8.0\AnalisePessoas(RH).pdb
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AnalisePessoas(RH)\obj\Debug\net8.0\AnalisePessoas(RH).genruntimeconfig.cache
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AnalisePessoas(RH)\obj\Debug\net8.0\ref\AnalisePessoas(RH).dll

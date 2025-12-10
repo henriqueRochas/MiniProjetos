@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AdivinhandoNumeroSalvandoTxt")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a60de25fc5540827f86113d47c635fffb7510336")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7f58475ffc8c4d83ffe937a781d30788dd31655")]
 [assembly: System.Reflection.AssemblyProductAttribute("AdivinhandoNumeroSalvandoTxt")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AdivinhandoNumeroSalvandoTxt")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
