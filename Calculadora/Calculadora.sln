@@ -46,6 +46,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoletimEscolar", "..\Boleti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnalisePessoas(RH)", "..\AnalisePessoas(RH)\AnalisePessoas(RH).csproj", "{3CCC98CE-1005-47CC-B7F1-A58B4DFEAC03}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnalistaTrafegoWeb", "..\AnalistaTrafegoWeb\AnalistaTrafegoWeb.csproj", "{935EA381-D62F-495E-A498-43EB913357AB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -128,6 +130,10 @@ Global
 		{3CCC98CE-1005-47CC-B7F1-A58B4DFEAC03}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3CCC98CE-1005-47CC-B7F1-A58B4DFEAC03}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3CCC98CE-1005-47CC-B7F1-A58B4DFEAC03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{935EA381-D62F-495E-A498-43EB913357AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{935EA381-D62F-495E-A498-43EB913357AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{935EA381-D62F-495E-A498-43EB913357AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{935EA381-D62F-495E-A498-43EB913357AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
