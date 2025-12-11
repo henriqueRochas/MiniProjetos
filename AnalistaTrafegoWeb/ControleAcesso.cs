@@ -44,31 +44,42 @@ namespace AnalistaTrafegoWeb
                 new DadosAcesso { Ip = "192.168.1.200", Url = "/app/v2", CodigoStatus = 200, DataHora = new DateTime(2024, 01, 15, 15, 00, 10) },
                 new DadosAcesso { Ip = "45.22.19.111", Url = "/retry-attack", CodigoStatus = 401, DataHora = new DateTime(2024, 01, 15, 16, 20, 00) },
                 new DadosAcesso { Ip = "10.0.0.12", Url = "/carrinho", CodigoStatus = 200, DataHora = new DateTime(2024, 01, 15, 18, 10, 05) },
-                new DadosAcesso { Ip = "10.0.0.12", Url = "/checkout/sucesso", CodigoStatus = 200, DataHora = new DateTime(2024, 01, 15, 18, 15, 00) }
+                new DadosAcesso { Ip = "10.0.0.10", Url = "/checkout/sucesso", CodigoStatus = 200, DataHora = new DateTime(2024, 01, 15, 18, 15, 00) },
+                new DadosAcesso { Ip = "10.0.0.18", Url = "/checkout/sucesso", CodigoStatus = 200, DataHora = new DateTime(2024, 01, 15, 18, 15, 00) },
+                new DadosAcesso { Ip = "10.0.0.13", Url = "/checkout/sucesso", CodigoStatus = 200, DataHora = new DateTime(2024, 01, 15, 18, 15, 00) },
+                new DadosAcesso { Ip = "10.0.0.14", Url = "/checkout/sucesso", CodigoStatus = 200, DataHora = new DateTime(2024, 01, 15, 18, 15, 00) },
+                new DadosAcesso { Ip = "10.0.0.15", Url = "/checkout/sucesso", CodigoStatus = 200, DataHora = new DateTime(2024, 01, 15, 18, 15, 00) },
+                new DadosAcesso { Ip = "10.0.0.17", Url = "/checkout/sucesso", CodigoStatus = 200, DataHora = new DateTime(2024, 01, 15, 18, 15, 00) }
             };
         }
         public List<string> UrlMaisVisitadas(int top)
         {
-            var grupo = _dadosAcesso.GroupBy(a => a.Url);
-            var pares = grupo.Select(b => new { Url = b.Key, Count = b.Count() });
-            var ordenando = pares.OrderByDescending(p => p.Count);
-            var topUrls = ordenando.Take(top).Select(p => p.Url).ToList();
-            return topUrls;
-                
+            return _dadosAcesso
+                .GroupBy(a => a.Url)
+                .Select(b => new { b.Key, Count = b.Count() })
+                .OrderByDescending(p => p.Count)
+                .Take(top).Select(p => p.Key).ToList();
         }
-
-                
-                 
-        
 
         public List<string> IpsSuspeitos()
         {
-
+            return _dadosAcesso
+                .Where(a => a.CodigoStatus >= 400)
+                .GroupBy(b => b.Ip)
+                .Select(c => new { c.Key, Count = c.Count() })
+                .Select(f => f.Key).ToList();
         }
 
         public int MaiorVolumeAcesso()
         {
-
+            return _dadosAcesso
+                .GroupBy(a => a.DataHora.Hour)
+                .Select(f => new
+                {
+                    Horas = f.Key,
+                    Contar = f.Count()
+                })
+                .OrderByDescending(v => v.Horas).ToList();
         }
     }
 }

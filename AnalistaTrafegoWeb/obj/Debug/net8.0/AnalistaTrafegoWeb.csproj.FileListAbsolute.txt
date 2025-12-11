@@ -1,0 +1,15 @@
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AnalistaTrafegoWeb\bin\Debug\net8.0\AnalistaTrafegoWeb.exe
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AnalistaTrafegoWeb\bin\Debug\net8.0\AnalistaTrafegoWeb.deps.json
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AnalistaTrafegoWeb\bin\Debug\net8.0\AnalistaTrafegoWeb.runtimeconfig.json
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AnalistaTrafegoWeb\bin\Debug\net8.0\AnalistaTrafegoWeb.dll
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AnalistaTrafegoWeb\bin\Debug\net8.0\AnalistaTrafegoWeb.pdb
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AnalistaTrafegoWeb\obj\Debug\net8.0\AnalistaTrafegoWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AnalistaTrafegoWeb\obj\Debug\net8.0\AnalistaTrafegoWeb.AssemblyInfoInputs.cache
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AnalistaTrafegoWeb\obj\Debug\net8.0\AnalistaTrafegoWeb.AssemblyInfo.cs
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AnalistaTrafegoWeb\obj\Debug\net8.0\AnalistaTrafegoWeb.csproj.CoreCompileInputs.cache
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AnalistaTrafegoWeb\obj\Debug\net8.0\AnalistaTrafegoWeb.sourcelink.json
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AnalistaTrafegoWeb\obj\Debug\net8.0\AnalistaTrafegoWeb.dll
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AnalistaTrafegoWeb\obj\Debug\net8.0\refint\AnalistaTrafegoWeb.dll
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AnalistaTrafegoWeb\obj\Debug\net8.0\AnalistaTrafegoWeb.pdb
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AnalistaTrafegoWeb\obj\Debug\net8.0\AnalistaTrafegoWeb.genruntimeconfig.cache
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\AnalistaTrafegoWeb\obj\Debug\net8.0\ref\AnalistaTrafegoWeb.dll
