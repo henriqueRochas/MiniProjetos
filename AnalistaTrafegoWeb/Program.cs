@@ -10,7 +10,7 @@
 
            var url  =  controleAcesso.UrlMaisVisitadas(top);
            var ips = controleAcesso.IpsSuspeitos();
-            var horas = controleAcesso.MaiorVolumeAcesso();
+           var horas = controleAcesso.MaiorVolumeAcesso();
 
             foreach (var listaUrl in url)
             {

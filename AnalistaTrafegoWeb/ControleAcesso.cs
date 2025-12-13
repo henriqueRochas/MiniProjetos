@@ -56,7 +56,11 @@ namespace AnalistaTrafegoWeb
         {
             return _dadosAcesso
                 .GroupBy(a => a.Url)
-                .Select(b => new { b.Key, Count = b.Count() })
+                .Select(b => new 
+                { 
+                    b.Key,
+                    Count = b.Count()
+                })
                 .OrderByDescending(p => p.Count)
                 .Take(top).Select(p => p.Key).ToList();
         }
@@ -66,7 +70,11 @@ namespace AnalistaTrafegoWeb
             return _dadosAcesso
                 .Where(a => a.CodigoStatus >= 400)
                 .GroupBy(b => b.Ip)
-                .Select(c => new { c.Key, Count = c.Count() })
+                .Select(c => new 
+                { 
+                    c.Key, 
+                    Count = c.Count() })
+                .Where(o => o.Count > 3)
                 .Select(f => f.Key).ToList();
         }
 
@@ -74,12 +82,13 @@ namespace AnalistaTrafegoWeb
         {
             return _dadosAcesso
                 .GroupBy(a => a.DataHora.Hour)
-                .Select(f => new
+                .Select(d => new
                 {
-                    Horas = f.Key,
-                    Contar = f.Count()
+                    d.Key,
+                    Contar = d.Count()
                 })
-                .OrderByDescending(v => v.Horas).ToList();
+                .OrderByDescending(f => f.Contar)
+                .First().Key;
         }
     }
 }

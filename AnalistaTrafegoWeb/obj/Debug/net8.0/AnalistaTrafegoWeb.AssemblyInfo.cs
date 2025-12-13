@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AnalistaTrafegoWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2711b46bb7ab649a8d5f07cddbd4c0aac4efaeb7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+daf0add85f378d32159267a702b66871e40a6c47")]
 [assembly: System.Reflection.AssemblyProductAttribute("AnalistaTrafegoWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AnalistaTrafegoWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

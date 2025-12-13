@@ -42,20 +42,23 @@ namespace AnalisePessoas_RH_
 
         public Dictionary<string, decimal> CalcularMediaSalarialSetor()
         {
-            return _funcionarios.GroupBy(a => a.Departamento)
+            return _funcionarios
+                .GroupBy(a => a.Departamento)
                 .ToDictionary(b => b.Key, b => b.Average(a => a.Salario));
         }
 
         public List<string> SetorSalariosAltos(decimal altoValor)
         {
-            return _funcionarios.GroupBy(a => a.Departamento)
+            return _funcionarios
+                .GroupBy(a => a.Departamento)
                 .Where(a => a.Sum(v => v.Salario) > altoValor)
                 .Select(x => x.Key).ToList();
         }
 
         public List<string> RelatorioDivisaoCargos()
         {
-            return _funcionarios.GroupBy(e => e.Departamento)
+            return _funcionarios
+                .GroupBy(e => e.Departamento)
                 .Select(a => $"Setor: {a.Key}  Jr: {a.Count(e => e.Cargo == "Junior")} Sr: {a.Count(e => e.Cargo == "Senior")}").ToList();
             
         }
