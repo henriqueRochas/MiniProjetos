@@ -1,0 +1,15 @@
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\ArenaMonstros\bin\Debug\net8.0\ArenaMonstros.exe
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\ArenaMonstros\bin\Debug\net8.0\ArenaMonstros.deps.json
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\ArenaMonstros\bin\Debug\net8.0\ArenaMonstros.runtimeconfig.json
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\ArenaMonstros\bin\Debug\net8.0\ArenaMonstros.dll
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\ArenaMonstros\bin\Debug\net8.0\ArenaMonstros.pdb
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\ArenaMonstros\obj\Debug\net8.0\ArenaMonstros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\ArenaMonstros\obj\Debug\net8.0\ArenaMonstros.AssemblyInfoInputs.cache
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\ArenaMonstros\obj\Debug\net8.0\ArenaMonstros.AssemblyInfo.cs
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\ArenaMonstros\obj\Debug\net8.0\ArenaMonstros.csproj.CoreCompileInputs.cache
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\ArenaMonstros\obj\Debug\net8.0\ArenaMonstros.sourcelink.json
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\ArenaMonstros\obj\Debug\net8.0\ArenaMonstros.dll
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\ArenaMonstros\obj\Debug\net8.0\refint\ArenaMonstros.dll
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\ArenaMonstros\obj\Debug\net8.0\ArenaMonstros.pdb
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\ArenaMonstros\obj\Debug\net8.0\ArenaMonstros.genruntimeconfig.cache
+C:\Users\henri\OneDrive\Documents\GitHub\MiniProjetos\ArenaMonstros\obj\Debug\net8.0\ref\ArenaMonstros.dll

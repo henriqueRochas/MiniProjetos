@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AnalisePessoas(RH)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2711b46bb7ab649a8d5f07cddbd4c0aac4efaeb7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8a7fd578a339fc875aea47605c598146aa88e32")]
 [assembly: System.Reflection.AssemblyProductAttribute("AnalisePessoas(RH)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AnalisePessoas(RH)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
